@@ -1,0 +1,18 @@
+# Temporary extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*.bck
+*.seed
+*.dat
+*.out
+*.pid
+*.gz
+
+package-lock.json
+node_modules/*
